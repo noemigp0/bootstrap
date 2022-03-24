@@ -1,0 +1,15 @@
+.container {
+    outline: solid red;
+    padding: 1em;
+    margin-top: 10%;
+}
+
+.row {
+    outline: solid blue;
+    padding: 1em;
+}
+
+.col {
+    outline: solid green;
+    min-height: 50px;
+}
